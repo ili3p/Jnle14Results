@@ -1,10 +1,10 @@
-Code for reproducing results from "Ziheng Lin, Hwee Tou Ng and Min-Yen Kan (2014). A PDTB-styled end-to-end discourse parser. Natural Language Engineering, 20, pp 151-184. Cambridge University Press"
+###Code for reproducing results from "Ziheng Lin, Hwee Tou Ng and Min-Yen Kan (2014). A PDTB-styled end-to-end discourse parser. Natural Language Engineering, 20, pp 151-184. Cambridge University Press"
 
-#System Requirements 
 
+###System Requirements 
 Java version >= 1.6
 
-#Reproducing results
+##Reproducing results
 1. Clone the repo or download the code by clicking the "Download ZIP" button on the right.
 2. Extract the zip file.
 3. Open terminal or command prompt and navigate to the directory.
