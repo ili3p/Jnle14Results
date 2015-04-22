@@ -7,7 +7,7 @@ Java version >= 1.6
 ###Reproducing results
 1. Clone the repo or download the code by clicking the "Download ZIP" button on the right.
 2. Extract the zip file.
-3. Open terminal or command prompt and navigate to the directory.
+3. Open terminal or command prompt and navigate to the root directory of the file - `Jnle14Results-master`.
 4. Run the command: 
 	
 	`java -jar runnable_jars/JnleResults.jar`
