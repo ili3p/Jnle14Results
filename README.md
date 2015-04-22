@@ -4,7 +4,7 @@
 ###System Requirements 
 Java version >= 1.6
 
-##Reproducing results
+###Reproducing results
 1. Clone the repo or download the code by clicking the "Download ZIP" button on the right.
 2. Extract the zip file.
 3. Open terminal or command prompt and navigate to the directory.
@@ -12,5 +12,5 @@ Java version >= 1.6
 	
 	`java -jar runnable_jars/JnleResults.jar`
 
-5. The result files by default are in `jnle_results` folder, if you move them just supply the location as an argument to the previous command, example. `java -jar runnable_jars/JnleResults.jar  new_jnle_results/`
+5. The result files by default are in the `jnle_results` folder, if you move them just supply the new location as an argument to the previous command, example. `java -jar runnable_jars/JnleResults.jar  new_jnle_results/`
 
