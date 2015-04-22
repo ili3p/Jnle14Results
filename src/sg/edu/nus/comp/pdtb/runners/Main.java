@@ -38,7 +38,7 @@ public class Main {
   public static void main(String[] args) throws IOException {
 
     if (args.length > 0) {
-      RESULT_DIR = args[0].endsWith("\\") ? args[0] : args[0] + "\\";
+      RESULT_DIR = args[0].endsWith("/") ? args[0] : args[0] + "/";
     }
     if (!(new File(RESULT_DIR).exists())) {
       System.err.println("Error! Results folder " + RESULT_DIR + " not found!");
